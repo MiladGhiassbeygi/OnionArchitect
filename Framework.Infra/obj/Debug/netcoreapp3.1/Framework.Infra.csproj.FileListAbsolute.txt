@@ -1,0 +1,13 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Infra.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Infra.runtimeconfig.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Infra.runtimeconfig.dev.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Infra.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Infra.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.csproj.CopyComplete
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Infra\obj\Debug\netcoreapp3.1\Framework.Infra.pdb

@@ -1,0 +1,11 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\bin\Debug\netcoreapp3.1\Framework.Web.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\bin\Debug\netcoreapp3.1\Framework.Web.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\bin\Debug\netcoreapp3.1\Framework.Web.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\bin\Debug\netcoreapp3.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.csproj.CopyComplete
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Web\obj\Debug\netcoreapp3.1\Framework.Web.pdb

@@ -1,0 +1,15 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Infra.Data.SqlServer.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Infra.Data.SqlServer.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Infra.Data.SqlServer.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Core.Domain.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Framework.Infra.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Core.Domain.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Framework.Infra.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.csproj.CopyComplete
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Data.SqlServer\obj\Debug\netcoreapp3.1\Infra.Data.SqlServer.pdb

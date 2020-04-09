@@ -1,0 +1,13 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Infra.Authentication.Jwt.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Infra.Authentication.Jwt.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Infra.Authentication.Jwt.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Framework.Infra.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Framework.Infra.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.csproj.CopyComplete
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Jwt\obj\Debug\netcoreapp3.1\Infra.Authentication.Jwt.pdb

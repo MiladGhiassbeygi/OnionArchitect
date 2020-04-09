@@ -1,0 +1,13 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Infra.Authentication.Identity.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Infra.Authentication.Identity.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Infra.Authentication.Identity.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Framework.Infra.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Framework.Infra.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.csproj.CopyComplete
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netcoreapp3.1\Infra.Authentication.Identity.pdb

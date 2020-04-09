@@ -1,0 +1,8 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\bin\Debug\netstandard2.1\Framework.Core.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\bin\Debug\netstandard2.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\bin\Debug\netstandard2.1\Framework.Core.pdb
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\obj\Debug\netstandard2.1\Framework.Core.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\obj\Debug\netstandard2.1\Framework.Core.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\obj\Debug\netstandard2.1\Framework.Core.AssemblyInfo.cs
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\obj\Debug\netstandard2.1\Framework.Core.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Framework.Core\obj\Debug\netstandard2.1\Framework.Core.pdb

@@ -1,0 +1,5 @@
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netstandard2.0\Infra.Authentication.Identity.deps.json
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\bin\Debug\netstandard2.0\Infra.Authentication.Identity.dll
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netstandard2.0\Infra.Authentication.Identity.csprojAssemblyReference.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netstandard2.0\Infra.Authentication.Identity.AssemblyInfoInputs.cache
+E:\Projects\Web\OnionArchitect\OnionArchitect\Infra.Authentication.Identity\obj\Debug\netstandard2.0\Infra.Authentication.Identity.AssemblyInfo.cs
